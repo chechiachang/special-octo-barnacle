@@ -1,3 +1,6 @@
+
+https://chechiachang.storiesonboard.com/m/special-octo-barnacle
+
 [<img src="https://img.shields.io/travis/playframework/play-scala-rest-api-example.svg"/>](https://travis-ci.org/playframework/play-scala-rest-api-example)
 
 # play-scala-rest-api-example
